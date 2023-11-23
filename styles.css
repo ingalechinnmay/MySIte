@@ -1,4 +1,8 @@
 .txt{
     color: rgb(255, 0, 0);
-    font-family: 'Vina Sans', sans-serif;
+    font-family: 'shadows';
+}
+@font-face {
+    font-family: shadows;
+    src: url(ShadowsIntoLight-Regular.ttf);
 }
