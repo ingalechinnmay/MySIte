@@ -1,1 +1,27 @@
+*{
+  margin: 0;
+}
 
+.header{
+  background-color:coral ;
+  display: flex;
+  padding: 20px 20px;
+  justify-content: space-between;
+}
+.header .left a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-family: 'Silkscreen', sans-serif;
+}
+.header .right ul{
+  display: flex;
+}
+.header .right li{
+  list-style: none;
+  margin: 0 30px;
+}
+.header .right a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+
+}
